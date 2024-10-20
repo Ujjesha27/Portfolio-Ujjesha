@@ -1,0 +1,26 @@
+{
+  "data" : [
+    {
+      "image":"./Images/EducationImages/img_kiit.jpg",
+      "alt":"KIIT",
+      "name":"Kalinga Institute Of Industrial Technology",
+      "board":"Deemed To Be University",
+      "place":"Bhubaneshwar, Odisha",
+      "achieved":"Bachelor Of Technology In Computer Science Engineering",
+      "yearStart":"2021",
+      "yearEnd":"2025",
+      "status":"Pursuing"
+    },
+    {
+      "image":"./Images/EducationImages/img_school.png",
+      "alt":"Some XYZ School",
+      "name":" Some XYZ school",
+      "board":"CBSE",
+      "place":"Howrah",
+      "achieved":"Secondary and Higher Secondary",
+      "yearStart":"2005",
+      "yearEnd":"2021",
+      "status":"Completed"
+    }
+  ]
+}
