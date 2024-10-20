@@ -2,12 +2,12 @@
   "data": [
     {
       "type": "Remote Internship",
-      "name": "SmartBridge",
-      "image":"./Images/ExperienceImages/Experience1/1.png",
-      "domain": "Salesforce Developer",
-      "link": "https://trailhead.salesforce.com/content/learn/superbadges/superbadge_developer_superset",
-      "certificate": "https://www.linkedin.com/in/sreetama-mukherjee-44a50a21a/overlay/1720069547857/single-media-viewer/?type=IMAGE&profileId=ACoAADc_ofoBb4sZOY8ZlSk7giB-ML7hSYsazvA",
-      "description": "Salesforce Developer remote internship at SmartBridge (AICTE Certified)",
+      "name": "Celebal Technologies",
+      "image":"./Images/ExperienceImages/Experience1/1.jpg",
+      "domain": "Web development with REACT",
+      "link": "https://celebaltech.com/",
+      "certificate": "/error",
+      "description": "React Web Development Internship at Celebal Technologies (AICTE Certified)",
       "start": "May, 2024",
       "end": "June, 2024"
     }

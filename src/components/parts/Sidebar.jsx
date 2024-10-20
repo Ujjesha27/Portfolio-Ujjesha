@@ -53,7 +53,7 @@ const Sidebar = ({ onParameterChange }) => {
               <NavbarButton myOnClick={() => { scrollToSection(otherData.navbarOptionLinks[3]); handleButtonClick() }} buttonName={otherData.navbarOptions[3]} />
               <NavbarButton myOnClick={() => { scrollToSection(otherData.navbarOptionLinks[4]); handleButtonClick() }} buttonName={otherData.navbarOptions[4]} />
               <NavbarButton myOnClick={() => { scrollToSection(otherData.navbarOptionLinks[5]); handleButtonClick() }} buttonName={otherData.navbarOptions[5]} />
-              <NavbarButton myOnClick={() => { scrollToSection(otherData.navbarOptionLinks[6]); handleButtonClick() }} buttonName={otherData.navbarOptions[6]} extraClasses={'col-span-2 xsm:col-span-3 sm:col-span-6'} />
+              {/* <NavbarButton myOnClick={() => { scrollToSection(otherData.navbarOptionLinks[6]); handleButtonClick() }} buttonName={otherData.navbarOptions[6]} extraClasses={'col-span-2 xsm:col-span-3 sm:col-span-6'} /> */}
             </>
           ) : (
             <>
@@ -63,7 +63,7 @@ const Sidebar = ({ onParameterChange }) => {
               <NavbarButton myOnClick={() => { goToHomeAndScroll(otherData.navbarOptionLinks[3]); handleButtonClick() }} buttonName={otherData.navbarOptions[3]} />
               <NavbarButton myOnClick={() => { goToHomeAndScroll(otherData.navbarOptionLinks[4]); handleButtonClick() }} buttonName={otherData.navbarOptions[4]} />
               <NavbarButton myOnClick={() => { goToHomeAndScroll(otherData.navbarOptionLinks[5]); handleButtonClick() }} buttonName={otherData.navbarOptions[5]} />
-              <NavbarButton myOnClick={() => { goToHomeAndScroll(otherData.navbarOptionLinks[6]); handleButtonClick() }} buttonName={otherData.navbarOptions[6]} extraClasses={'col-span-2 xsm:col-span-3 sm:col-span-6'} />
+              {/* <NavbarButton myOnClick={() => { goToHomeAndScroll(otherData.navbarOptionLinks[6]); handleButtonClick() }} buttonName={otherData.navbarOptions[6]} extraClasses={'col-span-2 xsm:col-span-3 sm:col-span-6'} /> */}
             </>
           )}
         </div>

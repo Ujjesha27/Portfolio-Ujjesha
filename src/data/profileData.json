@@ -13,8 +13,8 @@
   "about1":"Hello, I am Ujjesha Shankar currently in 7th Semester (as of ",
   "about2":"), pursuing my BTech in Computer Science from KIIT University, Bhubaneshwar, Odisha.",
   "about3": [
-    "I am an aspiring web developer with a strong passion for software development and a growing portfolio of experience. I have done Salesforce Developer Certification Course from SmartBridge (AICTE Approved). Previosly I had completed a remote internship with CODSoft, where I gained hands-on experience in web development, honing my skills in building dynamic and user-friendly websites. My goal is to continually improve and contribute to innovative projects, staying up to date with the latest technologies and trends in the industry. I am committed to becoming a professional in the field and am eager to leverage my knowledge to create impactful digital solutions.",
-    "Outside of work, I have a deep love for Korean culture, especially K-pop and K-dramas, which fuel my creativity and provide endless inspiration. I enjoy spending time with friends, exploring different cuisines, and relaxing at the beach whenever I can. These hobbies balance my professional ambitions, allowing me to stay refreshed and energized."
+    "Welcome to my portfolio! I am deeply passionate about computer science, with a particular interest in web development. Last summer, I had the incredible opportunity to intern as a React Developer at Celebal Technologies, where I honed my skills in building interactive and dynamic web applications. Currently, I am excited to share that I have been placed at Accenture and will begin my professional journey there in July 2025. With a strong foundation in development and a keen interest in problem-solving, I am always eager to explore new technologies and innovate through code.",
+    "Beyond tech, I have a deep love for Indian movies and music, which inspires my creativity. I'm also a huge fan of Korean culture, from K-pop to K-dramas, which fuel my passion for dance and singing. In my free time, I enjoy experimenting in the kitchen, whipping up delicious dishes, and I love exploring new places whenever I get the chance to travel. Through this blend of passions, I strive to bring a balance of technical expertise and cultural creativity to all aspects of my life."
   ],
   "display_image": "./Images/MyImages/Ujjesha5.jpg",
   "links": {
@@ -22,6 +22,6 @@
     "link_leetcode": "https://leetcode.com/u/sreetama18/",
     "link_linkedin": "https://www.linkedin.com/in/ujjesha-shankar-9a5600231/",
     "link_github": "https://github.com/Ujjesha27",
-    "link_spotify": "https://open.spotify.com/user/31csavgjfbhxclq2kt7udnvu4bwi?si=447b1789afb44a85"
+    "link_spotify": ""
   }
 }

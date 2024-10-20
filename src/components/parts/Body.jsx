@@ -7,7 +7,7 @@ import Skills from './BodySections/Skills';
 import Works from './BodySections/Works';
 import Experiences from './BodySections/Experiences';
 import Education from './BodySections/Education';
-import Contact from './BodySections/Contact';
+// import Contact from './BodySections/Contact';
 
 import otherData from '../../data/OtherData.json';
 
@@ -60,15 +60,16 @@ const Body = () => {
           <Element name={otherData.navbarOptionLinks[5]}>
             <Education />
             {/* Transperant gradient - change the height and colours acordingly*/}
-            <div className="h-44 w-full bg-gradient-to-b from-orange-500/20 to-purple-500/20"></div>
+            {/* <div className="h-44 w-full bg-gradient-to-b from-orange-500/20 to-purple-500/20"></div> */}
+            <div className="h-44 w-full bg-gradient-to-b from-orange-500/20 to-orange-500/20"></div>
           </Element>
 
           {/* Contact Section */}
-          <Element name={otherData.navbarOptionLinks[6]}>
-            <Contact />
+          {/* <Element name={otherData.navbarOptionLinks[6]}>
+            <Contact /> */}
             {/* Transperant gradient - change the height and colours acordingly*/}
-            <div className="h-44 w-full bg-gradient-to-b from-purple-500/20 to-orange-500/20"></div>
-          </Element>
+            {/* <div className="h-44 w-full bg-gradient-to-b from-purple-500/20 to-orange-500/20"></div>
+          </Element> */}
 
           {/* Transperant gradient - change the height acordingly*/}
           <div className="h-32 w-full bg-gradient-to-b from-orange-500/20 via-orange-700/20 to-orange-950"></div>

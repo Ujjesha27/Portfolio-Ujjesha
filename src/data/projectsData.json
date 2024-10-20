@@ -4,13 +4,15 @@
 			"id": 2,
 			"title": "My Personal Web Portfolio",
 			"domain":"Web Development",
-			"link":"https://github.com/anshika-jaiswal-2002/Portfolio-AnshikaJaiswal",
+			"link": "https://github.com/Ujjesha27/Portfolio-Ujjesha",
+			"website": "https://ujjesha.netlify.app/",
 			"description_short": "A personal portfolio website made with React Vite using TailwindCss. My Personal and professional details like skills, education, projects, experiences are added here. Hosted on NETLIFY",
 			"images": [
 				"./Images/ProjectImages/project2_portfolio/1.png",
 				"./Images/ProjectImages/project2_portfolio/2.png",
 				"./Images/ProjectImages/project2_portfolio/3.png",
-				"./Images/ProjectImages/project2_portfolio/4.png"
+				"./Images/ProjectImages/project2_portfolio/4.png",
+				"./Images/ProjectImages/project2_portfolio/5.png"
 			],
 			"thumbnail": "./Images/ProjectImages/project2_portfolio/1.png"
 		}
