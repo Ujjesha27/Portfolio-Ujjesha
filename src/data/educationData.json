@@ -7,19 +7,19 @@
       "board":"Deemed To Be University",
       "place":"Bhubaneshwar, Odisha",
       "achieved":"Bachelor Of Technology In Computer Science Engineering",
-      "yearStart":"2021",
+      "yearStart":"2022",
       "yearEnd":"2025",
       "status":"Pursuing"
     },
     {
-      "image":"./Images/EducationImages/img_school.png",
-      "alt":"Some XYZ School",
-      "name":" Some XYZ school",
-      "board":"CBSE",
-      "place":"Howrah",
-      "achieved":"Secondary and Higher Secondary",
-      "yearStart":"2005",
-      "yearEnd":"2021",
+      "image":"./Images/EducationImages/img_diploma.jpg",
+      "alt":"Galgotias University",
+      "name":" Galgotias University",
+      "board":"University Grants Commission (UGC)",
+      "place":"Greater Noida, Uttar pradesh",
+      "achieved":"Diploma in Computer Science amd Engineering",
+      "yearStart":"2019",
+      "yearEnd":"2022",
       "status":"Completed"
     }
   ]
