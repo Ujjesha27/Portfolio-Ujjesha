@@ -1,7 +1,7 @@
 {
 	"Projects": [
 		{
-			"id": 2,
+			"id": 1,
 			"title": "My Personal Web Portfolio",
 			"domain":"Web Development",
 			"link": "https://github.com/Ujjesha27/Portfolio-Ujjesha",
@@ -15,6 +15,22 @@
 				"./Images/ProjectImages/project2_portfolio/5.png"
 			],
 			"thumbnail": "./Images/ProjectImages/project2_portfolio/1.png"
+		},
+		{
+			"id": 2,
+			"title": "Book Recommendation System using ML",
+			"domain":"Machine Learning",
+			"link": "https://github.com/Ujjesha27/BookRecommendation",
+			"website": "https://github.com/Ujjesha27/BookRecommendation",
+			"description_short": "Book Recommendation System using ML",
+			"images": [
+				"./Images/ProjectImages/project1/1.png",
+				"./Images/ProjectImages/project1/2.png",
+				"./Images/ProjectImages/project1/3.png",
+				"./Images/ProjectImages/project1/4.png",
+				"./Images/ProjectImages/project1/5.png"
+			],
+			"thumbnail": "./Images/ProjectImages/project1/1.png"
 		}
 	]
 }

@@ -21,6 +21,18 @@
       "yearStart":"2019",
       "yearEnd":"2022",
       "status":"Completed"
+    },
+    {
+      "image":"./Images/EducationImages/img_diploma.jpg",
+      "alt":"Galgotias University",
+      "name":" St.Xavier's Junior/Senior School",
+      "board":"CBSE",
+      "place":"Muzaffarpur, Bihar",
+      "achieved":"Class 10th",
+      "yearStart":"2019",
+      "yearEnd":"2022",
+      "status":"Completed"
     }
+
   ]
 }
